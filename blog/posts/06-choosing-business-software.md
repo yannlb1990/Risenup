@@ -1,7 +1,7 @@
 title: How to Choose Booking, POS and Accounting Software for a Clinic
 slug: choose-small-business-software
-image: 06-clinic-business-software.jpg
-alt: Hair salon owner using a tablet beside the point-of-sale counter.
+image: 06-clinic-software-systems.jpg
+alt: Laptop dashboard showing connected booking, payment and accounting tiles.
 description: Compare booking, POS and accounting software for an Australian clinic by workflow fit, total cost, security, data access, support and exit terms.
 sources: business.gov.au — Digital Solutions for small business | https://business.gov.au/expertise-and-advice/digital-solutions-australian-small-business-advisory-services; OAIC — Small business and the Privacy Act | https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/small-business; Australian Cyber Security Centre — Small Business Cyber Security Handbook | https://www.cyber.gov.au/publication/small-business-cyber-security-handbook/implement-fundamental-cyber-security-controls
 ---BODY---

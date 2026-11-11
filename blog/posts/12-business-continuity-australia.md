@@ -1,7 +1,7 @@
 title: Business Continuity Planning for Australian Clinics and Salons
 slug: small-business-continuity-plan
-image: 12-clinic-business-continuity.jpg
-alt: Clinic owner reviewing business continuity notes and essential operating information.
+image: 12-clinic-business-continuity-plan.jpg
+alt: Backup drive, continuity checklist, calendar, keys and closed laptop.
 description: Prepare a clinic continuity plan for people, bookings, business data, suppliers, customer communication and recovery.
 sources: business.gov.au — Prepare your business for an emergency | https://business.gov.au/risk-management/emergency-management/prepare-your-business-for-an-emergency; business.gov.au — Develop an emergency management plan | https://business.gov.au/planning/business-plans/develop-an-emergency-management-plan; Australian Cyber Security Centre — Small Business Cyber Security Handbook | https://www.cyber.gov.au/publication/small-business-cyber-security-handbook/implement-fundamental-cyber-security-controls
 ---BODY---

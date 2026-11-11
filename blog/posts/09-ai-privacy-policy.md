@@ -1,7 +1,7 @@
 title: Using AI Safely in an Australian Clinic: Privacy and Human Review
 slug: small-business-ai-privacy
-image: 09-responsible-ai-clinic.jpg
-alt: Clinic owner reviewing work on a laptop before using AI-generated business content.
+image: 09-responsible-ai-privacy.jpg
+alt: Laptop with a privacy shield beside a closed client folder and checklist.
 description: Set practical clinic rules for AI use, private information, output checks, accountability and safe experimentation.
 sources: OAIC — Small business and the Privacy Act | https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/small-business; Australian Cyber Security Centre — Small Business Cyber Security Handbook | https://www.cyber.gov.au/publication/small-business-cyber-security-handbook/implement-fundamental-cyber-security-controls; business.gov.au — Digital Solutions for small business | https://business.gov.au/expertise-and-advice/digital-solutions-australian-small-business-advisory-services
 ---BODY---

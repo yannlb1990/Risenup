@@ -1,7 +1,7 @@
 title: How to Price Skin, Beauty and Hair Treatments for a Healthier Margin
 slug: service-pricing-contribution
-image: 01-service-pricing-margin.jpg
-alt: Clinic owner reviewing treatment costs, appointment time and service pricing at a desk.
+image: 01-service-pricing-margin-practical.jpg
+alt: Service price worksheet, calculator and margin chart on a warm desk.
 description: Review treatment prices, appointment time and product costs to understand what contributes to margin in an Australian clinic.
 sources: business.gov.au — Get help with your finances | https://business.gov.au/finance/get-help-with-your-finances; ATO — Record keeping for business | https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/record-keeping-for-business; TGA — Restrictions on advertising prescription medicines to the public | https://www.tga.gov.au/resources/guidance/complying-restrictions-advertising-prescription-medicines-public
 ---BODY---

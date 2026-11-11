@@ -1,7 +1,7 @@
 title: Cyber Security Basics for Australian Clinics and Salons
 slug: small-business-cyber-security-basics
-image: 05-clinic-cyber-security.jpg
-alt: Clinic owner checking account security on a laptop in a treatment studio.
+image: 05-clinic-cybersecurity-checklist.jpg
+alt: Laptop security screen, backup drive, security key and checklist.
 description: Protect clinic accounts, devices and records with practical steps for access, backups, updates and incident readiness.
 sources: Australian Cyber Security Centre — Small Business Cyber Security Handbook | https://www.cyber.gov.au/publication/small-business-cyber-security-handbook/implement-fundamental-cyber-security-controls; cyber.gov.au — Small business how-to guides | https://www.cyber.gov.au/guidance/how-to-guides-for-small-business; business.gov.au — Small Business Cyber Resilience Service | https://business.gov.au/expertise-and-advice/small-business-cyber-resilience-service
 ---BODY---

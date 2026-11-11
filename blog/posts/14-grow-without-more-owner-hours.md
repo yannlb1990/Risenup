@@ -1,7 +1,7 @@
 title: How to Grow a Clinic Without Adding More Owner Hours
 slug: grow-clinic-without-more-owner-hours
-image: risen-up-clinic-owner-planning.jpg
-alt: Clinic owner planning a work week beside an open notebook and business dashboard.
+image: 14-clinic-owner-capacity-planner.jpg
+alt: Weekly planner and workflow map for reviewing owner capacity and task hand-offs.
 description: A practical Australian clinic guide to reducing owner bottlenecks, improving team routines and testing growth without promising overnight scale.
 sources: business.gov.au — Guide to growing your business | https://business.gov.au/guide/growing; business.gov.au — Digital Solutions for small business | https://business.gov.au/expertise-and-advice/digital-solutions-australian-small-business-advisory-services; Fair Work Ombudsman — Paying employees | https://smallbusiness.fairwork.gov.au/paying-employees; Australian Cyber Security Centre — Small Business Cyber Security Handbook | https://www.cyber.gov.au/publication/small-business-cyber-security-handbook/implement-fundamental-cyber-security-controls
 ---BODY---

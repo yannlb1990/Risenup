@@ -1,7 +1,7 @@
 title: Client Rebooking and Retention for Australian Clinics
 slug: client-retention-with-consent
-image: 04-client-retention-consultation.jpg
-alt: Beauty professional talking with a returning client during a treatment consultation.
+image: 04-client-retention-rebooking-practical.jpg
+alt: Appointment diary, rebooking cards and calendar on a studio counter.
 description: Build a considerate follow-up routine for clinics, with clear separation between service messages and marketing consent.
 sources: ACMA — Avoid sending spam | https://www.acma.gov.au/avoid-sending-spam; ACMA — Telemarketing and e-marketing common issues | https://www.acma.gov.au/telemarketing-and-e-marketing-common-issues-and-mistakes; OAIC — Small business and the Privacy Act | https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/organisations/small-business
 ---BODY---
