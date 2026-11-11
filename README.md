@@ -7,6 +7,7 @@ This folder contains a rebranded, responsive static website concept based on the
 - Editorial landing page with larger body text, clear navigation and prominent discovery-call and email actions.
 - Published Risenup contact and booking paths: `https://risen-up.com/consulting` and `hello@risen-up.com`.
 - Margin Tracker description, current published AUD price, and links to the public product and calculator pages.
+- A browser-only capacity and margin scenario calculator for Australian appointment-led service businesses. It explains its assumptions and does not send or store visitor figures.
 - Fourteen article pages under `insights/`, each with a unique meta description, descriptive article-specific image filename and alt text, Open Graph metadata, canonical URL, official sources and internal links. The library combines the original educational guides with two additional practical guides on staff-hour costing and owner capacity.
 - Responsive styling for phone and desktop, a sitemap and robots file.
 
