@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Service Business Capacity &amp; Margin Calculator | Risenup</title>
+  <meta name="description" content="Explore a transparent capacity and margin scenario for an Australian salon, studio or clinic. Use your own figures, understand the assumptions and find practical next steps.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Risenup">
+  <meta property="og:locale" content="en_AU">
+  <meta property="og:title" content="Service Business Capacity &amp; Margin Calculator | Risenup">
+  <meta property="og:description" content="Estimate a what-if opportunity from spare appointment capacity using your own business figures. No sign-up and no data capture.">
+  <meta property="og:url" content="https://risen-up.com/calculator">
+  <meta property="og:image" content="https://risen-up.com/assets/14-clinic-owner-capacity-planner.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#402a1d">
+  <link rel="canonical" href="https://risen-up.com/calculator">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../editorial.css">
+  <link rel="stylesheet" href="/calculator/calculator.css">
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"FAQPage",
+    "mainEntity":[
+      {"@type":"Question","name":"What does this calculator estimate?","acceptedAnswer":{"@type":"Answer","text":"It uses your annual service sales per delivered hour to create a what-if scenario: the additional sales and, when you enter variable costs, contribution that may be possible if you use some spare appointment capacity. It does not claim the amount is currently being lost or guaranteed."}},
+      {"@type":"Question","name":"Which businesses can use it?","acceptedAnswer":{"@type":"Answer","text":"It is designed for appointment-led service businesses such as salons, barbers, beauty and tattoo studios, allied health practices and clinics. Use service sales excluding GST where possible."}},
+      {"@type":"Question","name":"Does this calculator store or send my figures?","acceptedAnswer":{"@type":"Answer","text":"No. The calculator runs in your browser. Figures entered here are not sent to Risenup or saved by this page."}},
+      {"@type":"Question","name":"Is the contribution estimate net profit?","acceptedAnswer":{"@type":"Answer","text":"No. It subtracts only the variable-cost percentage you provide. It excludes labour, rent, fixed overheads, tax, owner drawings and the cost of generating demand."}}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <div class="site-shell calculator-shell">
+    <header class="site-header">
+      <a class="logo" href="/" aria-label="Risenup home">Risen<span>up</span></a>
+      <nav id="primary-navigation" aria-label="Main navigation">
+        <a href="/#solutions">Consulting</a>
+        <a href="/#areas">What we improve</a>
+        <a href="/margin-tracker">Margin Tracker</a>
+        <a href="/insights/index.html">Insights</a>
+        <a href="/#tools">Useful tools</a>
+        <a class="mobile-nav-cta" href="/consulting">Book a discovery call</a>
+      </nav>
+      <a class="button small dark header-cta" href="/consulting">Book a discovery call</a>
+      <button class="menu-toggle" type="button" aria-controls="primary-navigation" aria-expanded="false" aria-label="Open navigation"><span></span><span></span></button>
+    </header>
+
+    <main id="top" class="calculator-page">
+      <section class="calculator-hero" aria-labelledby="calculator-title">
+        <div class="calculator-hero-copy">
+          <p class="eyebrow">FREE PLANNING TOOL · AUSTRALIAN SERVICE BUSINESSES</p>
+          <h1 id="calculator-title">Find the room<br>to improve your <em>margins.</em></h1>
+          <p>Build a clear, editable scenario from your own sales, team hours and appointment capacity. Then use the result to ask better questions about demand, pricing and the way work gets done.</p>
+          <div class="calculator-hero-notes"><span>01 · YOUR FIGURES</span><span>02 · A WHAT-IF SCENARIO</span><span>03 · PRACTICAL NEXT STEPS</span></div>
+        </div>
+        <div class="calculator-hero-art" aria-hidden="true">
+          <div class="art-caption">A CLEARER VIEW OF CAPACITY</div>
+          <div class="art-card">
+            <div class="art-card-top"><span>WEEKLY SERVICE CAPACITY</span><span>SCENARIO VIEW</span></div>
+            <div class="art-chart">
+              <span class="chart-label">BOOKABLE TIME</span>
+              <div class="chart-track"><i class="chart-booked"></i><i class="chart-free"></i></div>
+              <div class="chart-legend"><span><i></i> Delivered services</span><span><i></i> Capacity to review</span></div>
+            </div>
+            <div class="art-summary"><span>Start with your operating data.</span><b>Then test one change.</b></div>
+          </div>
+          <span class="art-side-note">YOUR BUSINESS · YOUR ASSUMPTIONS</span>
+        </div>
+      </section>
+
+      <section class="calculator-workspace" aria-label="Capacity and margin calculator">
+        <div class="calculator-form-panel">
+          <div class="panel-heading">
+            <p class="eyebrow">STEP 1 · YOUR OPERATING PICTURE</p>
+            <h2>Start with the numbers you have.</h2>
+            <p>Use your last 12 months for sales and labour. For weekly hours, use a typical week across the same team and locations.</p>
+          </div>
+          <form id="capacity-form" novalidate>
+            <div class="field-group">
+              <label for="annual-sales">Annual service sales <span>EXCLUDING GST</span></label>
+              <p>Leave retail product sales out if you can.</p>
+              <div class="money-input"><span aria-hidden="true">$</span><input id="annual-sales" name="annual-sales" type="number" inputmode="decimal" min="0" max="100000000" step="1000" placeholder="e.g. 420,000" autocomplete="off"></div>
+            </div>
+            <div class="field-group">
+              <label for="annual-labour">Annual team labour cost <span>OPTIONAL FOR THIS SCENARIO</span></label>
+              <p>Include wages and employer on-costs. Add owner service time only if you have a reasonable cost estimate.</p>
+              <div class="money-input"><span aria-hidden="true">$</span><input id="annual-labour" name="annual-labour" type="number" inputmode="decimal" min="0" max="100000000" step="1000" placeholder="e.g. 168,000" autocomplete="off"></div>
+            </div>
+            <div class="hours-grid">
+              <div class="field-group">
+                <label for="bookable-hours">Bookable service hours <span>PER WEEK</span></label>
+                <p>Team and service spaces combined.</p>
+                <input id="bookable-hours" name="bookable-hours" type="number" inputmode="decimal" min="0" max="10000" step="1" placeholder="e.g. 160" autocomplete="off">
+              </div>
+              <div class="field-group">
+                <label for="delivered-hours">Hours delivering services <span>PER WEEK</span></label>
+                <p>Exclude breaks and admin time.</p>
+                <input id="delivered-hours" name="delivered-hours" type="number" inputmode="decimal" min="0" max="10000" step="1" placeholder="e.g. 112" autocomplete="off">
+              </div>
+            </div>
+            <div id="form-message" class="form-message" role="status" aria-live="polite"></div>
+            <div class="scenario-control">
+              <div class="scenario-control-heading"><div><label for="utilisation-lift">Choose a capacity improvement to explore.</label><p>This is your editable assumption, not an industry benchmark.</p></div><output id="lift-output" for="utilisation-lift">+5 points</output></div>
+              <input id="utilisation-lift" type="range" min="0" max="20" step="1" value="5" aria-label="Capacity improvement assumption in percentage points">
+              <div class="range-limits"><span>0 points</span><span>20 points</span></div>
+            </div>
+            <details class="variable-costs">
+              <summary><span>Add direct variable costs for a contribution estimate</span><b aria-hidden="true">+</b></summary>
+              <p>Optional. Include costs that rise when you deliver another service, such as consumables, service product, commissions and payment fees. Exclude wages, rent and fixed overheads.</p>
+              <label for="variable-cost">Direct variable costs <span>PERCENT OF SERVICE SALES</span></label>
+              <div class="percent-input"><input id="variable-cost" type="number" inputmode="decimal" min="0" max="100" step="0.5" placeholder="Leave blank if unknown" autocomplete="off"><span aria-hidden="true">%</span></div>
+            </details>
+            <p class="privacy-note"><span aria-hidden="true">◎</span> Your figures stay in this browser. This page does not send or store them.</p>
+          </form>
+        </div>
+
+        <aside class="calculator-results" aria-labelledby="result-title" aria-live="polite">
+          <div class="result-topline"><p class="eyebrow">STEP 2 · YOUR SCENARIO</p><span class="result-mark" aria-hidden="true">RU</span></div>
+          <h2 id="result-title">A planning estimate,<br><em>not a promise.</em></h2>
+          <div id="empty-result" class="empty-result"><span class="empty-number">— —</span><p>Add service sales and weekly service hours to see your scenario.</p><small>No preset figure is used.</small></div>
+          <div id="scenario-result" hidden>
+            <p class="result-label">ADDITIONAL ANNUAL SERVICE SALES IN THIS SCENARIO</p>
+            <p id="scenario-sales" class="scenario-number">$0</p>
+            <p id="scenario-description" class="result-description"></p>
+            <div class="result-metrics">
+              <article><span>Current utilisation</span><b id="current-utilisation">—</b></article>
+              <article><span>Labour cost / sales</span><b id="labour-share">Add figure</b></article>
+              <article><span>Sales / delivered hour</span><b id="sales-per-hour">—</b></article>
+              <article><span>Scenario hours / week</span><b id="extra-hours">—</b></article>
+            </div>
+            <div id="contribution-card" class="contribution-card" hidden><span>ESTIMATED CONTRIBUTION AFTER ENTERED VARIABLE COSTS</span><b id="scenario-contribution">$0</b><p>Excludes labour, rent, fixed overheads, tax and the cost of generating demand. This is not net profit.</p></div>
+            <p id="capacity-cap-note" class="capacity-cap-note" hidden></p>
+            <p class="scenario-caveat">Illustrative annualised scenario using 52 similar weeks and your current average service sales per delivered hour. It does not account for demand, service mix, roster constraints, cancellations or seasonality.</p>
+            <button id="print-scenario" class="print-button" type="button">Print or save this scenario</button>
+          </div>
+        </aside>
+      </section>
+
+      <section class="next-steps" aria-labelledby="next-steps-title">
+        <div class="next-steps-intro"><p class="eyebrow">STEP 3 · TURN THE SCENARIO INTO A BETTER QUESTION</p><h2 id="next-steps-title">Check the operating <em>reality.</em></h2><p>A capacity opportunity matters only if clients want the times you can offer and the change works for your team.</p><a class="button dark" href="/consulting">Discuss a tailored improvement plan</a></div>
+        <ol class="next-steps-list">
+          <li><span>01</span><div><h3>Check demand.</h3><p>Are clients looking for the days and appointment times you have available?</p></div></li>
+          <li><span>02</span><div><h3>Find the friction.</h3><p>Review cancellations, enquiry response time, rebooking and gaps in the schedule.</p></div></li>
+          <li><span>03</span><div><h3>Protect contribution.</h3><p>Compare service prices with team time, consumables and payment costs.</p></div></li>
+          <li><span>04</span><div><h3>Test one change.</h3><p>Track the result for four weeks before adjusting the wider roster or service menu.</p></div></li>
+        </ol>
+      </section>
+
+      <section class="calculator-faq" aria-labelledby="faq-title"><div class="faq-heading"><p class="eyebrow">CLEAR ASSUMPTIONS</p><h2 id="faq-title">How to use the estimate <em>well.</em></h2><p>A capacity scenario helps you ask better questions. It cannot tell you whether customers will book, whether your team can deliver more or whether a change is worth its cost. Validate the details before acting.</p></div><div class="faq-list">
+        <details><summary>What does this calculator estimate?</summary><p>It uses your own service sales per delivered hour to create a what-if scenario: the additional sales and, if you enter variable costs, contribution that may be possible if you use some spare appointment capacity. It does not claim this amount is currently being lost or guaranteed.</p></details>
+        <details><summary>Which businesses can use it?</summary><p>It is designed for appointment-led service businesses such as salons, barbers, beauty and tattoo studios, allied health practices and clinics. Use service sales excluding GST where possible. For multiple locations or distinct service types, run separate estimates where you have the figures.</p></details>
+        <details><summary>Where do I find the figures?</summary><p>Use service sales from your accounting or booking system, excluding GST and ideally retail sales. For bookable hours, add the hours your team and service spaces were genuinely available for client work in a typical week. Delivered hours are the time spent providing paid services. Estimates are okay if you treat them as estimates.</p></details>
+        <details><summary>Is the contribution estimate net profit?</summary><p>No. It subtracts only the variable-cost percentage you provide. It excludes wages, rent, fixed overheads, tax, owner drawings and the cost of generating demand.</p></details>
+        <details><summary>Does this calculator store or send my figures?</summary><p>No. The calculator runs in your browser. The figures you enter are not sent to Risenup or saved by this page. If you contact us separately, only information you include in your enquiry is submitted.</p></details>
+        <details><summary>How should I use the result?</summary><p>Treat it as a planning prompt. Check customer demand, cancellations, service mix, prices, team rosters and direct costs. A scenario becomes useful only when you test its assumptions against your actual operating data.</p></details>
+      </div></section>
+    </main>
+
+    <footer class="site-footer"><a class="logo" href="/">Risen<span>up</span></a><p>Tailored consulting, custom AI tools and connected systems for Australian service businesses.</p><a href="/insights/index.html">Insights</a><a href="/#tools">Useful tools</a><span>Based in Australia · Engagements nationwide</span></footer>
+  </div>
+  <script src="/calculator/calculator.js" defer></script>
+  <script>
+    const menuButton = document.querySelector('.menu-toggle');
+    const header = document.querySelector('.site-header');
+    menuButton?.addEventListener('click', () => {
+      const open = menuButton.getAttribute('aria-expanded') !== 'true';
+      menuButton.setAttribute('aria-expanded', String(open));
+      menuButton.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
+      header?.classList.toggle('menu-open', open);
+    });
+    document.querySelectorAll('#primary-navigation a').forEach(link => link.addEventListener('click', () => {
+      menuButton?.setAttribute('aria-expanded', 'false');
+      menuButton?.setAttribute('aria-label', 'Open navigation');
+      header?.classList.remove('menu-open');
+    }));
+  </script>
+</body>
+</html>
