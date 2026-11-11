@@ -1,7 +1,7 @@
 title: What to Automate First in a Clinic: A Safe Workflow Guide
 slug: small-business-workflow-automation
-image: 08-clinic-workflow-automation.jpg
-alt: Two beauty professionals carrying out a consistent clinic service workflow.
+image: 08-clinic-workflow-automation-map.jpg
+alt: Laptop and paper workflow map with connected task steps and a timer.
 description: Choose a suitable clinic workflow by mapping tasks, checking exceptions, measuring time and keeping human review.
 sources: business.gov.au — Digital Solutions for small business | https://business.gov.au/expertise-and-advice/digital-solutions-australian-small-business-advisory-services; Australian Cyber Security Centre — Small Business Cyber Security Handbook | https://www.cyber.gov.au/publication/small-business-cyber-security-handbook/implement-fundamental-cyber-security-controls; ACMA — Avoid sending spam | https://www.acma.gov.au/avoid-sending-spam
 ---BODY---

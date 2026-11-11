@@ -1,7 +1,7 @@
 title: A Weekly Cash Flow Routine for Australian Clinics and Salons
 slug: cash-flow-weekly-rhythm
-image: 02-clinic-cash-flow.jpg
-alt: Two clinic owners reviewing weekly cash figures and financial priorities together.
+image: 02-clinic-cash-flow-practical.jpg
+alt: Cash forecast worksheet, business calendar and calculator for a weekly review.
 description: Build a practical weekly cash routine for Australian clinics using expected income, planned costs and realistic assumptions.
 sources: business.gov.au — Get help with your finances | https://business.gov.au/finance/get-help-with-your-finances; ATO — Record keeping for business | https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/record-keeping-for-business; ATO — GST and health | https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/health/gst-and-health; ATO — Payday Super | https://softwaredevelopers.ato.gov.au/PaydaySuper; business.gov.au — Prepare for an emergency | https://business.gov.au/risk-management/emergency-management/prepare-your-business-for-an-emergency
 ---BODY---

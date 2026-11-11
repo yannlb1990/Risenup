@@ -1,7 +1,7 @@
 title: Stock Control for Australian Beauty, Skin and Hair Clinics
 slug: stock-control-service-businesses
-image: 07-clinic-stock-control.jpg
-alt: Beauty clinic owner checking product stock on treatment-room shelves.
+image: 07-clinic-stock-control-products.jpg
+alt: Organised studio product shelves beside an inventory checklist and barcode scanner.
 description: Set practical reorder points, track product use and reduce avoidable stock waste in Australian skin, beauty and hair clinics.
 sources: ATO — Record keeping for business | https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/record-keeping-for-business; business.gov.au — Get help with your finances | https://business.gov.au/finance/get-help-with-your-finances; Australian Competition and Consumer Commission — Product safety | https://www.productsafety.gov.au/
 ---BODY---

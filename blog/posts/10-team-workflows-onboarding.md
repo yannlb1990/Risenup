@@ -1,7 +1,7 @@
 title: Employee Onboarding and Team Systems for Australian Clinics
 slug: employee-onboarding-studio-workflows
-image: 10-clinic-team-onboarding.jpg
-alt: Experienced beauty professional showing a new colleague the clinic’s work routine.
+image: 10-clinic-team-onboarding-checklist.jpg
+alt: Role checklist, shift calendar, training binder and tagged keys.
 description: Create a clear clinic onboarding routine with role expectations, safe access, training records and regular check-ins.
 sources: Fair Work Ombudsman — Record keeping | https://www.fairwork.gov.au/pay-and-wages/paying-wages/record-keeping; business.gov.au — Work health and safety | https://business.gov.au/risk-management/health-and-safety/work-health-and-safety; Australian Cyber Security Centre — Small Business Cyber Security Handbook | https://www.cyber.gov.au/publication/small-business-cyber-security-handbook/implement-fundamental-cyber-security-controls
 ---BODY---

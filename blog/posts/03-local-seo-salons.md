@@ -1,7 +1,7 @@
 title: Local Search Visibility for Australian Beauty and Hair Clinics
 slug: local-seo-service-businesses
-image: 03-clinic-local-discovery.jpg
-alt: Beauty clinic owner checking her business profile and local customer enquiries on a phone.
+image: 03-clinic-local-search-practical.jpg
+alt: Phone with a map pin and local search cards beside a printed street map.
 description: Improve local discovery with accurate clinic profiles, useful service information and clear customer contact details.
 sources: Google Business Profile — Improve your local ranking on Google | https://support.google.com/business/answer/7091?hl=en; business.gov.au — Digital Solutions for small business | https://business.gov.au/expertise-and-advice/digital-solutions-australian-small-business-advisory-services; ACMA — Avoid sending spam | https://www.acma.gov.au/avoid-sending-spam
 ---BODY---

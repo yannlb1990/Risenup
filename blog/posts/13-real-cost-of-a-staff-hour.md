@@ -1,7 +1,7 @@
 title: The Real Cost of a Staff Hour: A Practical Guide for Australian Clinics
 slug: real-cost-staff-hour
-image: 10-clinic-team-onboarding.jpg
-alt: Clinic owner and team member reviewing a work plan together in a treatment studio.
+image: 13-real-staff-hour-cost-calculator.jpg
+alt: Calculator and staff-cost worksheet showing pay, super and employment cost layers.
 description: Understand what a staff hour really costs your clinic, from award pay and super to productive time, allowances and roster design.
 sources: Fair Work Ombudsman — Paying employees | https://smallbusiness.fairwork.gov.au/paying-employees; Fair Work Ombudsman — Hair and Beauty Industry Award | https://awards.fairwork.gov.au/MA000005.html; ATO — Work out how much super guarantee you must pay | https://www.ato.gov.au/businesses-and-organisations/super-for-employers/work-out-how-much-super-to-pay; ATO — Payday Super | https://www.ato.gov.au/businesses-and-organisations/super-for-employers/payday-super; business.gov.au — Guide to growing your business | https://business.gov.au/guide/growing
 ---BODY---

@@ -1,7 +1,7 @@
 title: Workplace Health and Safety for Australian Clinics and Salons
 slug: workplace-safety-service-studios
-image: 11-clinic-workplace-safety.jpg
-alt: Clinic professional cleaning an organised treatment station with gloves and equipment neatly set out.
+image: 11-clinic-workplace-safety-station.jpg
+alt: Prepared studio station with clean supplies, gloves, safety kit and checklist.
 description: Build a practical safety routine by identifying hazards, consulting staff and checking controls in your clinic.
 sources: business.gov.au — Work health and safety | https://business.gov.au/risk-management/health-and-safety/work-health-and-safety; Safe Work Australia — Small business resources | https://www.safeworkaustralia.gov.au/safety-topic/industry-and-business/small-business; Australian Government — Find your regulator | https://www.safeworkaustralia.gov.au/law-and-regulation/whs-regulators-and-workers-compensation-authorities-contact-information
 ---BODY---
