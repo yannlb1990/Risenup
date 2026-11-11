@@ -1,0 +1,109 @@
+title: How to Price Skin, Beauty and Hair Treatments for a Healthier Margin
+slug: service-pricing-contribution
+image: 01-service-pricing-margin.jpg
+alt: Clinic owner reviewing treatment costs, appointment time and service pricing at a desk.
+description: Review treatment prices, appointment time and product costs to understand what contributes to margin in an Australian clinic.
+sources: business.gov.au — Get help with your finances | https://business.gov.au/finance/get-help-with-your-finances; ATO — Record keeping for business | https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/record-keeping-for-business; TGA — Restrictions on advertising prescription medicines to the public | https://www.tga.gov.au/resources/guidance/complying-restrictions-advertising-prescription-medicines-public
+---BODY---
+A full appointment book can still hide an uncomfortable question: which services support the business after the time, products and transaction costs are counted? Looking only at sales can make a busy week appear healthy even when a long appointment consumes more paid time and materials than expected. This guide shows how to build a useful service-level view without pretending one formula can set the right price for every client or location.
+
+The aim is not to raise every price. It is to understand the work, identify assumptions and choose a fair next step. Use your own booking and purchasing records, keep tax treatment consistent, and ask your accountant about GST, deductible expenses and business-specific accounting. All example amounts below are fictional and exist only to demonstrate the method.
+
+## First separate sales, contribution and profit
+
+Sales, sometimes called revenue or turnover, are amounts earned from supplying services and products over a period. Sales do not tell you what remains after the business pays for materials, wages, merchant charges, rent, insurance, software, utilities and other costs. A dashboard that displays sales alone can therefore reward a service that takes a long time or uses expensive consumables, even if another service supports the business more effectively per booked hour.
+
+Contribution is a management measure. In a simple service review, begin with the price received for one appointment and subtract costs that change when that service is delivered. The remainder contributes towards fixed and shared costs, and then any operating surplus. Contribution is not the same as net profit, take-home pay or cash in the bank. It also depends on how the owner defines variable costs. Write that definition beside the calculation so a future comparison uses the same method.
+
+For example, assume a treatment price of $120, materials of $20 and a transaction fee of $3. The simplified contribution is $97 before allocated labour, overheads and tax considerations. If a staff member receives a commission that changes with this appointment, the business may include that amount as a variable cost. If the owner includes direct labour in unit economics, show the labour assumption transparently. There is no universal formula that fits every employment arrangement.
+
+{{CHART:service-margin}}
+
+## Collect reliable inputs before calculating
+
+A useful review starts with records rather than memory. Collect the price actually charged, appointment duration, setup and clean-down time, service-specific products used, disposable items, commissions or other directly variable payments, payment fees and any discounts or refunds. Include preparation and room turnaround if they reduce the time available for another appointment. A 45-minute treatment may occupy a room and practitioner for an hour once consultation, cleaning and reset are included.
+
+Use several recent examples rather than one unusually quiet or complex appointment. If colour services differ by length, product volume or consultation needs, separate them into sensible groups. If a tattoo session has variable design time, record that separately instead of averaging every artist and job into one number. Note whether the input is measured, estimated or copied from a provider bill. A precise spreadsheet cannot make uncertain inputs accurate.
+
+Keep units consistent. If a colour product is purchased by the litre but recorded per appointment in millilitres, document the conversion and product wastage. If an annual software bill is shared by the whole business, it is normally a fixed or allocated cost rather than a variable cost for an individual appointment. Do not subtract the same expense twice. Where a cost classification is unclear, record it as a question for the bookkeeper or accountant rather than disguising it as certainty.
+
+## Measure the real appointment time
+
+Appointment time is an operating constraint. A service that generates $90 contribution in 30 minutes has a different contribution per booked hour from a service that generates $125 but occupies 90 minutes. Dividing contribution by total occupied time can help identify the opportunity cost of a fully booked calendar. It does not mean the business should automatically discontinue the lower hourly figure. That service may attract new clients, support a valuable relationship, fill otherwise empty periods, or lead to appropriate retail or follow-up work.
+
+Record actual start and finish times for a sample. Include consultation, preparation, cleaning, payment and room reset. Do not compare a menu duration with actual working time for one service and actual chair time for another. Estimate no-show and late-cancellation effects separately. Those events change available capacity and cash, but are not a consumable cost of every completed appointment. Handle cancellation terms fairly and consistently, and ask a qualified adviser to review legal wording if needed.
+
+Look at the distribution, not only the average. Averages conceal complex jobs and delays. A simple low, typical and high time range may be more useful than a false exact figure. Ask practitioners whether a timing change would compromise service quality, safety or customer experience. Efficiency gains should come from removing avoidable waiting, duplication or rework, not rushing a consultation or cutting corners on hygiene.
+
+## Compare like with like across service groups
+
+Create a small number of service categories that reflect how work is delivered. Hair businesses may group cuts, colour, styling and treatments. Barbers may distinguish a standard cut, cut and beard service, and longer appointments. Beauty businesses may group treatments by room, practitioner, equipment or consumable profile. Tattoo businesses might separate consultation, design, session and aftercare work. The right groups help an owner make a decision while remaining understandable to the team.
+
+For each group, set a period and use consistent definitions. Compare appointment count, actual price after discounts, occupied time and estimated variable costs. A period with school holidays or a seasonal campaign may not represent a full year, so label unusual trading conditions. If an owner changes the way costs are allocated in the middle of a comparison, mark the change rather than presenting the two periods as equivalent.
+
+Do not rank team members by raw service totals without accounting for working hours, service mix, leave, experience and demand. A fair operational discussion asks where the process creates friction and whether the schedule suits the work. Personal-service businesses depend on people and trust; a crude ranking can damage morale and encourage the wrong behaviour. Use a small number of measures to support a conversation rather than replace one.
+
+If the service mix includes clinical or regulated treatments, keep internal cost analysis separate from client-facing claims. A margin calculation does not establish that a treatment is suitable, that an outcome can be promised, or that an advertisement complies with regulation. The Therapeutic Goods Administration’s current guidance describes restrictions on advertising prescription medicines to the public, including representations around cosmetic injectables. Get specialist regulatory advice before publishing service descriptions, booking categories or promotional material for regulated treatments.
+
+## Include discounts and product attachment honestly
+
+The menu price is not always the amount received. Discounts, packages, gift cards, refunds and complimentary adjustments can change realized price. Record them consistently and ask the accountant how gift-card recognition should be handled in formal accounts. For an operational comparison, a discounted service may still be worth offering, but its contribution should be visible rather than silently calculated at full menu price.
+
+Retail products can add value when they meet a genuine client need. Track product purchase cost, selling price, payment fees, expiry or damage and the staff time involved in recommendation and fulfilment. Separate retail contribution from service contribution before combining them. Otherwise a strong retail week can hide a service that needs attention, or a good service can be overlooked because product purchases fluctuate.
+
+A bundle should have a reason the customer understands. It may make a routine easier, support an appropriate maintenance plan or encourage pre-booking. Before launching one, calculate the amount received per included item, the time the booking occupies and any redemption or expiry conditions. Do not assume every client will redeem at the average rate if the offer could create a future capacity spike. Ask an accountant or legal adviser about how to describe promotions and applicable consumer requirements.
+
+## A worked example, with assumptions visible
+
+Imagine a fictional beauty studio comparing two services. Service A takes 45 minutes in the appointment book and uses $12 in consumables. After a 2% payment fee on a $100 price, simplified contribution is $86. Service B takes 75 minutes, uses $24 in consumables and has a $150 price with the same payment fee; simplified contribution is $123. Service B leaves more contribution per appointment, but Service A may leave more per booked hour. The arithmetic is only a starting point: direct labour, room constraints, demand, fixed costs and service quality matter.
+
+If Service A occupies 0.75 of a booked hour, $86 divided by 0.75 is about $115 contribution per booked hour before other costs. If Service B occupies 1.25 hours, $123 divided by 1.25 is about $98 per booked hour on the same simplified basis. Those numbers are not forecasts. They do not promise that another appointment can be sold in the unused time, and they do not value customer experience or staff energy. They identify a question: is the duration, price, product usage or workflow for Service B worth reviewing?
+
+Check the inputs with the people delivering the service. Perhaps the service routinely takes 60 minutes but the booking system allocates 75. Perhaps a longer consultation prevents rework. Perhaps the product estimate ignores wastage or the appointment includes a valuable follow-up. Record what evidence would resolve the uncertainty. A measured test with a small sample is often more useful than changing the full price list immediately.
+
+## Decide whether the response is price, process or positioning
+
+Low contribution can have several causes. Price may not reflect costs or demand. The service may use more product than expected. Booking duration may be too short, creating unpaid overtime and late appointments. A confusing consultation may lead to avoidable rework. A promotion may be used too broadly. Or the service may be an intentional entry point that supports repeat visits. Diagnose the cause before picking a remedy.
+
+A price change may be appropriate if the offer remains valuable to the intended customer and the business communicates the change clearly. A process improvement may be better if setup, purchasing or handoffs create waste. A revised service menu could clarify what is included and help customers select the right appointment. A scheduling adjustment may protect recovery time and reduce overruns. A decision to retire an offer should account for customer relationships, team skills and the role that service plays in the overall mix.
+
+Avoid simply increasing every price by a fixed percentage because a cost went up. That may be reasonable in some cases, but it ignores differences in time, materials, capacity and customer value. Equally, avoid underpricing because a competitor lists a lower starting price. Their service scope, location, quality, overheads and business model may be different. Competitor research can inform positioning; it cannot tell you what your own service costs to deliver.
+
+## Build a decision sheet the team can use
+
+A simple service review can fit on one page. List the service group, date range, sample size, price actually received, occupied minutes, estimated variable costs, calculation method, data quality and one question to investigate. Add a short note about fixed costs that remain outside the service contribution calculation. State the owner of the next action and a review date.
+
+Keep the language readable. A team member should be able to explain what “contribution per booked hour” means without inspecting a complicated formula. Define whether GST is included or excluded and confirm that the comparison uses the same basis. The Australian Taxation Office provides [record-keeping guidance](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/record-keeping-for-business); use your accountant or bookkeeper for the formal treatment that applies to you. The [business.gov.au finance guidance](https://business.gov.au/finance/get-help-with-your-finances) can help owners find support options.
+
+Protect the sheet. Service economics usually do not require names, phone numbers, photos, health details or payment credentials. Keep client data out of a shared workbook unless there is a clear reason, lawful basis, access control and retention process. Share aggregated figures with advisers where possible. Good measurement should improve the business while respecting staff and customer privacy.
+
+## Common mistakes that make the result misleading
+
+The first mistake is confusing contribution with net profit. Fixed costs still need to be covered, and tax, owner remuneration, debt and cash timing need their own consideration. The second is allocating every overhead to one appointment using an arbitrary percentage, then comparing the result as if it were a measured cost. If an allocation is useful, explain the basis and show the unallocated amount too.
+
+Another mistake is using the advertised price instead of the amount actually received. Discounts and package redemptions can matter. Owners also overlook setup, clean-down, consultations, rework and product wastage. A spreadsheet that uses tidy round numbers may make a process seem more controlled than it is. Label estimates clearly and replace them with observations when practical.
+
+Finally, owners can overreact to one slow week or one expensive appointment. Review an appropriate period, note seasonality and avoid pressuring staff to maximise a metric at the expense of safety or client care. If results could affect employee pay, role design or contractual arrangements, obtain qualified employment advice before making changes. The goal is a better business decision, not a target that rewards behaviour the business would regret.
+
+## A practical 30-day review
+
+In week one, choose three to five services that consume meaningful time, product or room capacity. Agree the definitions with the team and collect a modest sample. In week two, check source records and estimate actual appointment duration, consumables and transaction charges. Separate measured facts from assumptions, then calculate contribution using one consistent method.
+
+In week three, review the result with the people who perform the work. Ask what a number misses, where delays or waste occur, and which changes could affect safety, quality or customer trust. Pick one low-risk test, such as improving booking duration, recording product use more consistently or clarifying a service description. Do not change a full menu based only on a theoretical calculator.
+
+In week four, compare the test with the baseline. Look at contribution, occupied time, rebooking, complaints, rework and team workload as relevant. Keep the change only if it improves the result without creating a worse customer or staff outcome. Record what did not work and what evidence is still missing. If formal prices, GST treatment, wages or contract terms are involved, ask the relevant qualified professional before implementation.
+
+## Test a menu change without surprising customers
+
+Before changing a price, write down the reason, the services affected, the start date, any existing package or gift-card commitments, and the person who will update every place the price appears. The website, booking menu, front-desk information and printed materials should agree. If the business gives a quote after consultation, explain when that quote may change and how the customer will be told. Ask an adviser to review terms where the wording could affect a customer’s rights.
+
+Test the explanation with a customer-facing team member. Can they say what the price includes, what factors change it and where a client can ask a question? If the answer is complicated, the service definition may need work before the price changes. Give staff a short written note and an escalation route for unusual conversations. Do not ask an employee to defend a change they were not told about.
+
+For a small test, compare a defined period after the change with a suitable earlier period. Track realized price, appointment count, cancellations, service mix, customer feedback and contribution assumptions. If fewer appointments occur, explore seasonality, promotion activity and capacity before attributing the difference to price alone. A controlled experiment is rarely perfect in a local studio, but recording context is better than relying on memory.
+
+A useful review question is not simply “Did revenue rise?” It is “Did this change support the goal without creating an unacceptable customer or team effect?” A higher average ticket can coexist with fewer completed appointments or increased complaints. Keep a change only when the wider evidence makes sense for the business and the service remains fair and clearly described.
+## What matters most
+
+A useful service-pricing decision combines the customer’s perceived value with the real time and variable cost required to deliver the work. Contribution gives an owner a consistent way to compare services, but it is one lens among several. It does not measure demand, experience, staff wellbeing or profit by itself.
+
+Start with a handful of services, use actual records, explain each assumption and calculate on a consistent basis. Then decide whether the opportunity is pricing, scheduling, purchasing, service design or a better workflow. Test a small change, observe the full effect and be ready to reverse it if quality or trust falls. For detailed accounting or tax treatment, use an Australian accountant or bookkeeper who understands the business.

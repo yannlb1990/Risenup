@@ -1,0 +1,115 @@
+title: Stock Control for Australian Beauty, Skin and Hair Clinics
+slug: stock-control-service-businesses
+image: 07-clinic-stock-control.jpg
+alt: Beauty clinic owner checking product stock on treatment-room shelves.
+description: Set practical reorder points, track product use and reduce avoidable stock waste in Australian skin, beauty and hair clinics.
+sources: ATO — Record keeping for business | https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/record-keeping-for-business; business.gov.au — Get help with your finances | https://business.gov.au/finance/get-help-with-your-finances; Australian Competition and Consumer Commission — Product safety | https://www.productsafety.gov.au/
+---BODY---
+Stock is easy to ignore when the appointment diary is full. Products sit in cupboards, someone notices a shade or disposable item is nearly gone, and an urgent order is placed. The studio may then discover it has three slow-moving boxes of another item, paid for express freight, or lost track of which batch was used. A light stock routine can protect cash and service continuity without turning a small business into a warehouse.
+
+The right process depends on what the business uses and sells. Hair colour, treatment products, barber consumables, beauty supplies, tattoo inks, needles, aftercare and retail products have different storage, safety, shelf-life and record requirements. This guide focuses on basic operational visibility. Follow product instructions, supplier requirements and relevant Australian safety or product rules. Seek specialist advice for regulated, hazardous or clinical products.
+
+## Start with a useful inventory list
+
+Create a list of products that affect service delivery, safety, customer experience or cash. Give each item a clear name, unit of measure, supplier, usual purchase unit, approximate lead time, storage location and the person who orders it. Add batch or expiry information where the product and its instructions require it. Avoid putting every low-value office item into a complicated system before the high-impact items are visible.
+
+Use a consistent unit. If a supplier sells a box of 100 and the team records individual pieces, document the conversion. If an item is measured in millilitres or grams, decide how staff will estimate usage. A note such as “one pump” can be useful only if the team knows which pump and product size it refers to. Clear definitions make counts and usage comparisons more reliable.
+
+Separate service supplies from retail stock. A product used during an appointment may have a different pricing and replenishment method from an item sold to a client. If the same item is used both ways, track withdrawals by purpose where the value justifies it. Otherwise, a retail sale can make the system think a practitioner consumed more product in services than actually happened.
+
+## Find which items deserve attention
+
+Not every product needs the same level of control. Rank items by operational impact, purchase value, usage, lead time, expiry, safety and substitutability. A low-cost item can be business-critical if no substitute is safe or available. A costly retail product that sells once a year may need a different approach from a frequently used colour product. A simple high, medium and low priority grouping is often enough.
+
+Do not use a rigid ABC stock method without checking whether it fits. A value-based ranking can highlight a small number of products that tie up much of the stock budget, but it can understate critical low-cost items. Add a criticality flag for products with long lead times, no safe substitute, batch traceability requirements or a direct effect on scheduled work. Use the smallest process that protects the business’s real risks.
+
+Consider the cost of a stockout. If a product is unavailable, could the business reschedule a client, substitute an approved alternative, refund a deposit or delay retail delivery? Some stockouts are inconvenient; others can affect safety, quality or trust. Ask the team which shortages caused rework or disruption over the past few months. Their examples are often more useful than the owner’s estimate.
+
+## Set reorder points from usage and lead time
+
+A reorder point is a trigger for placing an order, not a guarantee that stock will arrive on time. A simple starting formula is average usage during supplier lead time plus a chosen buffer for variability. If the business uses six units each week and supplier delivery normally takes two weeks, expected lead-time demand is 12 units. The buffer depends on uncertainty, storage, expiry, cash and the consequences of running short.
+
+{{CHART:inventory}}
+
+Estimate usage from purchases and counts over a suitable period. If staff use different amounts depending on service length, group appointments or record usage for a small sample. Averages can mislead when demand is seasonal or a supplier has recently changed delivery time. Keep a range: typical use, high-use period and low-use period. Then test whether the chosen trigger works in real operations.
+
+Review supplier lead time as actual calendar days from order to usable stock, not only the advertised shipping promise. Include approval time, weekend closures, backorders and delivery to the correct studio. For products that need inspection or preparation, stock is not usable the moment a parcel arrives. If a supplier changes its minimum order quantity, currency, packaging or substitute product, update the assumptions.
+
+## Count stock without creating busywork
+
+Cycle counts mean checking a small group of items regularly instead of counting everything only once a year. Critical and costly products can be checked more frequently; stable low-risk supplies can be counted less often. Assign the task to a role and define when a count occurs, such as after a delivery or at the end of a quiet day. Avoid relying on memory or a single annual count if shortages happen weekly.
+
+Record the physical quantity and compare it with the expected balance. Investigate material differences: was a purchase not entered, was a product used in a service without being recorded, did an item expire, or was a box stored in another room? Do not adjust the record simply to make the numbers match without understanding why they differed. A short variance note can reveal a process issue.
+
+Store products so the team can see and rotate them appropriately. Follow supplier instructions for temperature, light, ventilation, separation and safe handling. Use first-expiry-first-out where suitable and maintain batch records when necessary. Label opened products and decanted containers only in line with manufacturer and safety guidance. Do not repackage or relabel a product in a way that removes essential safety information.
+
+## Link product use to service decisions
+
+The business may want to understand how product usage affects service contribution. Start by measuring a modest sample rather than trying to track every pump perfectly. For a colour service, record the product category or approximate quantity, service duration, waste and any rework. For tattoo work, track consumables according to safe practice and manufacturer instructions. Do not change a professional’s technique or substitute materials to hit a spreadsheet target.
+
+Compare like with like. Long hair, complex colour work or larger treatment areas may use different quantities. A single average can make normal variation look like waste. Use service groups, note the relevant differences and ask experienced practitioners to interpret the result. The objective is to understand whether the menu, booking time or purchasing routine needs attention, not to judge an individual without context.
+
+Retail performance needs separate measures. Track quantity sold, gross margin assumptions, discounts, damaged units, expiry and time spent managing the range. A product that creates small sales but requires extensive advice, storage and reorder work may not support the business. Conversely, a low-volume item may be important to customer experience. Ask customers what they need and review supplier support before expanding the range.
+
+## Review supplier cost and product risk
+
+Compare total delivered cost rather than the listed unit price. Include freight, minimum order quantities, payment terms, currency exposure, returns, damaged goods, service support and staff time. A wholesale discount can encourage excess stock that expires before use. Ask what happens if a product is discontinued or temporarily unavailable and whether an approved substitute exists.
+
+Check supplier legitimacy and product information. A regulated or safety-critical product should come from an appropriate supplier with traceable instructions and current documentation. Keep invoices and relevant product records. Do not purchase counterfeit or unknown products to save money. If there is a product safety concern, stop using the item as appropriate and follow official reporting and supplier processes.
+
+Avoid relying on one supplier for every critical item if the operational impact of disruption is high. A second source can provide resilience, but test its quality and compliance before an urgent shortage. Maintain a short list of approved alternatives and the conditions for using them. A substitute must be safe and suitable for the service, not merely similar in appearance.
+
+## Keep stock data simple and secure
+
+A spreadsheet can work for a small set of products if one person owns the definitions and updates. Use a consistent item identifier, units, count date, purchase record, usage and reorder trigger. Protect formulas and restrict edits where accidental changes could cause confusion. Keep a backup and avoid storing client details in the stock file.
+
+A dedicated inventory tool may help if the business has many products, multiple locations or frequent stock movement. Before purchasing, test barcode scanning, purchase orders, supplier integrations, batch tracking, expiry alerts, offline use, exports and access permissions. Confirm that data can be retrieved if the business changes provider. Add the subscription and staff training cost to the comparison.
+
+If stock software connects to a point-of-sale or accounting package, understand how refunds, complimentary items, bundles and inter-location transfers affect counts. Run a trial with test data and compare the system’s balance with a physical count. Integrations can save repeated entry only when the records are accurate and errors are visible.
+
+## A 30-day stock improvement routine
+
+In week one, list the 20 to 30 products that matter most to service, safety or cash. Confirm product units, locations, suppliers and lead times. Ask each practitioner what item shortages repeatedly disrupt work. In week two, count the selected items and record any mismatch between expected and physical stock. Do not hide the variance; look for its cause.
+
+In week three, calculate a simple reorder trigger for a few items and agree who checks it. Label the process and test it against upcoming bookings and supplier availability. In week four, review purchase decisions, stockouts, waste and emergency freight. Change one assumption where the evidence supports it. Keep a note of product rules that require professional or manufacturer guidance.
+
+## Understand waste without encouraging unsafe shortcuts
+
+Waste can arise from expired products, damaged containers, incorrect orders, spills, over-dispensing, service variation, retail returns or poor storage. Record the reason and approximate value at a useful level of detail. Do not punish staff for reporting a spill or a damaged product; concealment makes the process less safe and the stock figures less trustworthy.
+
+Review patterns with practitioners. If one service uses more product, the reason may be hair length, treatment requirements, a supplier change or a consultation that changed the plan. Do not set a usage target that pressures staff to apply less product than the manufacturer or practitioner requires. Safety, quality and customer outcomes must govern technique. The record exists to understand the purchasing and service system, not to dictate professional judgment.
+
+For products with expiry, use the manufacturer’s directions and a visible rotation routine. Check deliveries on arrival, record damaged goods and resolve supplier credits promptly. If an item’s condition or authenticity is uncertain, isolate it and contact the supplier instead of using it on a customer. Keep invoices and product identifiers where traceability is important. Follow applicable product-safety requirements and supplier instructions.
+
+## Test reorder rules against the appointment diary
+
+A reorder point should be checked against committed work. A forecast of average weekly usage may be too low if a group of colour appointments, a wedding party or a tattoo weekend is booked next month. Review upcoming service mix and known events before placing an order. This does not mean buying for every possible booking; it means identifying where demand differs from the ordinary pattern.
+
+Calculate how much stock is already on hand, how much is on order and what is reserved or unusable. Some systems call this available stock. A box received but not checked, an expired item or product held at another location may not be available for the work scheduled tomorrow. Write down the definition and use it consistently.
+
+When the reorder trigger is reached, compare supplier availability and delivery promises. If the supplier is out of stock, follow the approved alternative process. Communicate with the team before changing a product, because service protocols, customer expectations and training may be affected. A controlled substitute decision is preferable to an emergency purchase from an unknown seller.\n## Turn the count into purchasing decisions
+
+A count should lead to an order, an investigation or no action. If the on-hand balance is above the reorder point, the owner may wait. If it is below, compare stock on order, upcoming appointments, supplier lead time and expiry before deciding quantity. Record who approved the purchase and why. This reduces duplicate orders when two team members assume someone else has not placed it.
+
+Set a maximum stock level where storage, cash or expiry creates a constraint. The maximum should reflect usage, delivery pattern and shelf life, not a round number chosen for convenience. If minimum order quantities force purchases above the desired level, evaluate another supplier or a different replenishment schedule. Avoid chasing a volume discount if the products may expire before use.
+
+Review slow-moving stock on a regular calendar. Decide whether to use, return, transfer, discount or discontinue it, while preserving professional and product requirements. Do not keep buying an item simply because money was spent previously. For retail products, ask whether customers understand the item and whether staff can describe it accurately. A small, relevant retail range may be easier to manage than an assortment chosen from supplier incentives.
+
+## Calculate a stockout’s real cost
+
+The cost of a missing product can include an emergency shipment, lost appointment, rescheduling effort, refund, substitute assessment and customer frustration. Estimate these components when a shortage happens. The information can justify a higher buffer for a truly critical item, or reveal that the product is rarely required and a substitute is practical. Keep the estimate separate from measured financial records.
+
+Do not inflate buffer stock to avoid every possible inconvenience. Extra inventory ties up cash, uses space and can expire. Agree what level of risk is acceptable with the owner and practitioners. Review the decision after a supplier delay, change in booking mix or unusual event. A reorder rule is a living assumption, not a permanent formula.
+## Check the numbers against actual purchasing
+
+Use invoices, receiving notes, physical counts and point-of-sale records together. A purchase order is not proof that goods arrived, and a supplier credit may not appear in the same period as damaged stock. Reconcile a few important items each month before relying on a system-wide stock valuation. If financial reporting or tax treatment is involved, confirm the method with the bookkeeper or accountant.
+
+Record a stock adjustment with a reason and an approver. Examples include breakage, expiry, internal use, complimentary product, return to supplier or a corrected delivery. A reason code can reveal whether a process or supplier issue is recurring. Avoid a generic adjustment for every difference, because it hides the action that could prevent the next variance.
+
+If the business has multiple rooms or locations, define how transfers are recorded. The sending location should reduce its quantity and the receiving location should confirm arrival. Without that handshake, both places can believe stock is available. Keep a simple transfer log and review items that are repeatedly moved; the pattern may show that the reorder quantity or service mix differs by site.
+
+## What matters most
+
+Good stock control makes essential products visible, protects cash from avoidable over-ordering and helps the business deliver scheduled work. The system can be a simple, regularly maintained list if it reflects actual usage and supplier timing. A sophisticated app cannot compensate for unclear units or unrecorded purchases.
+
+Prioritise by business impact, check stock in small cycles, use realistic lead-time assumptions and follow product safety instructions. Separate retail from service use where it affects decisions. Review actual stockouts and waste with the team, then adjust the process gradually. Ask an accountant or qualified safety adviser about formal record requirements and specialist product risks.

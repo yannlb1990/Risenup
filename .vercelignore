@@ -1,0 +1,8 @@
+README.md
+SEO_AUDIT.md
+blog/build_blog.py
+blog/posts/
+.env*
+.vercel/
+.git/
+node_modules/
