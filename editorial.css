@@ -333,3 +333,11 @@ html{scroll-padding-top:90px}
 /* Shared call-to-action sizing across editorial, service and calculator pages. */
 .site-header>.button,.button,.detail-actions .button,.detail-callout .button,.next-steps-intro .button,.print-button{box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:50px;padding:14px 20px;border-radius:4px;font-size:12px;line-height:1.25;letter-spacing:.07em;text-align:center;text-decoration:none}
 @media(max-width:620px){.site-header>.button,.button,.detail-actions .button,.detail-callout .button,.next-steps-intro .button,.print-button{min-height:50px;padding:14px 20px;font-size:12px}.hero-actions .button,.contact-actions .button,.product-actions .button{width:100%}}
+
+
+/* Keep the capability labels separate from their headings at every viewport. */
+.service-list article{grid-template-columns:minmax(120px,0.25fr) minmax(0,1fr);gap:clamp(16px,2vw,28px)}
+.service-list article>span{min-width:0;padding-top:2px;font-size:12px;line-height:1.35;letter-spacing:.1em;overflow-wrap:anywhere}
+.service-list article>div{min-width:0}
+.service-list article h3{line-height:1.15;overflow-wrap:anywhere}
+@media(max-width:620px){.service-list article{grid-template-columns:1fr;gap:5px}.service-list article>span{padding:0;font-size:11px;line-height:1.35}}
