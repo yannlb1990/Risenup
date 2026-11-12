@@ -335,9 +335,10 @@ html{scroll-padding-top:90px}
 @media(max-width:620px){.site-header>.button,.button,.detail-actions .button,.detail-callout .button,.next-steps-intro .button,.print-button{min-height:50px;padding:14px 20px;font-size:12px}.hero-actions .button,.contact-actions .button,.product-actions .button{width:100%}}
 
 
-/* Keep the capability labels separate from their headings at every viewport. */
-.service-list article{grid-template-columns:minmax(120px,0.25fr) minmax(0,1fr);gap:clamp(16px,2vw,28px)}
-.service-list article>span{min-width:0;padding-top:2px;font-size:12px;line-height:1.35;letter-spacing:.1em;overflow-wrap:anywhere}
-.service-list article>div{min-width:0}
-.service-list article h3{line-height:1.15;overflow-wrap:anywhere}
-@media(max-width:620px){.service-list article{grid-template-columns:1fr;gap:5px}.service-list article>span{padding:0;font-size:11px;line-height:1.35}}
+
+/* Keep service capability labels above titles so they cannot collide at any zoom or viewport. */
+.service-list article{grid-template-columns:minmax(0,1fr);gap:0}
+.service-list .service-entry{display:grid;grid-template-columns:minmax(0,1fr);gap:4px;min-width:0}
+.service-list .service-entry>span{display:block;min-width:0;padding:0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.35;letter-spacing:.12em;color:var(--editorial-red);overflow-wrap:anywhere}
+.service-list .service-entry h3{min-width:0;margin:0 0 3px;line-height:1.15;overflow-wrap:anywhere}
+.service-list .service-entry p{min-width:0;margin:0;max-width:70ch;line-height:1.65}
