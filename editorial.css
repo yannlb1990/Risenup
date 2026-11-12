@@ -351,3 +351,13 @@ html{scroll-padding-top:90px}
 .service-list .service-entry{display:block;width:100%;min-width:0}
 .service-list .service-entry>span,.service-list .service-entry>h3,.service-list .service-entry>p{display:block;width:100%;max-width:70ch}
 .service-list .service-entry>span{max-width:none}
+
+
+/* Tablet reading layout: give service descriptions a full-width copy column. */
+@media (min-width:761px) and (max-width:960px){
+  .service-editorial{grid-template-columns:minmax(0,1fr)}
+  .service-photo-wrap{min-height:clamp(300px,42vw,420px)}
+  .service-copy{padding:clamp(38px,6vw,68px) clamp(28px,8vw,96px)}
+  .service-copy .service-intro{max-width:68ch}
+  .service-list .service-entry>p{max-width:68ch}
+}
