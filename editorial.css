@@ -378,3 +378,9 @@ html{scroll-padding-top:90px}
 @media (max-width:760px){
   .service-list .service-entry{display:block}
 }
+
+
+/* The consulting overview is copy-led; remove the decorative photo column. */
+.service-editorial{display:block;min-height:0}
+.service-copy{width:100%;min-width:0;padding:clamp(42px,6vw,88px) clamp(24px,8vw,128px)}
+.service-copy .service-intro{max-width:68ch}
