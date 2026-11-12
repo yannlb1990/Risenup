@@ -361,3 +361,20 @@ html{scroll-padding-top:90px}
   .service-copy .service-intro{max-width:68ch}
   .service-list .service-entry>p{max-width:68ch}
 }
+
+/* Service capability rows: align labels in their own rail and give copy the remaining width. */
+@media (min-width:761px){
+  .service-list .service-entry{
+    display:grid;
+    grid-template-columns:minmax(110px,.28fr) minmax(0,1fr);
+    column-gap:clamp(20px,3vw,44px);
+    row-gap:5px;
+    align-items:start;
+  }
+  .service-list .service-entry>span{grid-column:1;grid-row:1 / span 2;padding-top:4px}
+  .service-list .service-entry>h3{grid-column:2;grid-row:1}
+  .service-list .service-entry>p{grid-column:2;grid-row:2}
+}
+@media (max-width:760px){
+  .service-list .service-entry{display:block}
+}
