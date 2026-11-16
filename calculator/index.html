@@ -3,18 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Service Capacity &amp; Margin Calculator | Risenup</title>
-  <meta name="description" content="Model capacity and contribution scenarios for an Australian service business. Enter your assumptions, compare outcomes and plan a practical next step.">
+  <title>Service Business Capacity &amp; Margin Calculator | Risenup</title>
+  <meta name="description" content="Explore a transparent capacity and margin scenario for an Australian salon, studio or clinic. Use your own figures, understand the assumptions and find practical next steps.">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Risenup">
   <meta property="og:locale" content="en_AU">
-  <meta property="og:title" content="Service Capacity &amp; Margin Calculator | Risenup">
-  <meta property="og:description" content="Model capacity and contribution scenarios for an Australian service business. Enter your assumptions, compare outcomes and plan a practical next step.">
+  <meta property="og:title" content="Service Business Capacity &amp; Margin Calculator | Risenup">
+  <meta property="og:description" content="Estimate a what-if opportunity from spare appointment capacity using your own business figures. No sign-up and no data capture.">
   <meta property="og:url" content="https://risen-up.com/calculator">
   <meta property="og:image" content="https://risen-up.com/assets/14-clinic-owner-capacity-planner.jpg">
-  <meta name="twitter:image" content="https://risen-up.com/assets/14-clinic-owner-capacity-planner.jpg">
-  <meta name="twitter:title" content="Service Capacity &amp; Margin Calculator | Risenup">
-  <meta name="twitter:description" content="Model capacity and contribution scenarios for an Australian service business. Enter your assumptions, compare outcomes and plan a practical next step.">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#402a1d">
   <link rel="canonical" href="https://risen-up.com/calculator">
@@ -43,11 +40,11 @@
         <a href="/#solutions">Consulting</a>
         <a href="/#areas">What we improve</a>
         <a href="/margin-tracker">Margin Tracker</a>
-        <a href="/insights/index.html">Insights</a>
+        <a href="/insights/">Insights</a>
         <a href="/#tools">Useful tools</a>
-        <a class="mobile-nav-cta" href="/consulting">request a discovery call</a>
+        <a class="mobile-nav-cta" href="/contact#discovery">Request a call by email</a>
       </nav>
-      <a class="button small dark header-cta" href="/consulting">request a discovery call</a>
+      <a class="button small dark header-cta" href="/contact#discovery">Request a call by email</a>
       <button class="menu-toggle" type="button" aria-controls="primary-navigation" aria-expanded="false" aria-label="Open navigation"><span></span><span></span></button>
     </header>
 
@@ -104,9 +101,14 @@
                 <input id="delivered-hours" name="delivered-hours" type="number" inputmode="decimal" min="0" max="10000" step="1" placeholder="e.g. 112" autocomplete="off">
               </div>
             </div>
+            <div class="field-group weeks-field">
+              <label for="weeks-open">Weeks open for services <span>PER YEAR</span></label>
+              <p>Start with 48 if you are unsure, then adjust for your usual closures and quieter periods.</p>
+              <input id="weeks-open" name="weeks-open" type="number" inputmode="numeric" min="1" max="52" step="1" value="48" autocomplete="off">
+            </div>
             <div id="form-message" class="form-message" role="status" aria-live="polite"></div>
             <div class="scenario-control">
-              <div class="scenario-control-heading"><div><label for="utilisation-lift">Choose a capacity improvement to explore.</label><p>This is your editable assumption, not an industry benchmark.</p></div><output id="lift-output" for="utilisation-lift">+5 points</output></div>
+              <div class="scenario-control-heading"><div><label for="utilisation-lift">How much more bookable time would you like to test?</label><p>Move one point to picture a small change. This is your what-if, not a target or benchmark.</p></div><output id="lift-output" for="utilisation-lift">+5 points</output></div>
               <input id="utilisation-lift" type="range" min="0" max="20" step="1" value="5" aria-label="Capacity improvement assumption in percentage points">
               <div class="range-limits"><span>0 points</span><span>20 points</span></div>
             </div>
@@ -130,16 +132,74 @@
             <p id="scenario-description" class="result-description"></p>
             <div class="result-metrics">
               <article><span>Current utilisation</span><b id="current-utilisation">—</b></article>
-              <article><span>Labour cost / sales</span><b id="labour-share">Add figure</b></article>
+              <article><span>Entered labour cost / sales</span><b id="labour-share">Add figure</b></article>
               <article><span>Sales / delivered hour</span><b id="sales-per-hour">—</b></article>
-              <article><span>Scenario hours / week</span><b id="extra-hours">—</b></article>
+              <article><span>Extra delivered time / week</span><b id="extra-hours">—</b></article>
+              <article class="capacity-ceiling"><span>Unfilled-capacity sales ceiling*</span><b id="capacity-ceiling">—</b></article>
+            </div>
+            <div class="capacity-meter" aria-label="Weekly service capacity comparison">
+              <div class="capacity-meter-heading"><span>Typical week</span><span id="capacity-meter-label">—</span></div>
+              <div class="capacity-meter-track" role="img" id="capacity-meter" aria-label="No calculator figures entered"><i class="capacity-meter-used" id="capacity-meter-used"></i><i class="capacity-meter-scenario" id="capacity-meter-scenario"></i></div>
+              <div class="capacity-meter-legend"><span>Services delivered</span><span>Extra time in this scenario</span><span>Still unfilled</span></div>
             </div>
             <div id="contribution-card" class="contribution-card" hidden><span>ESTIMATED CONTRIBUTION AFTER ENTERED VARIABLE COSTS</span><b id="scenario-contribution">$0</b><p>Excludes labour, rent, fixed overheads, tax and the cost of generating demand. This is not net profit.</p></div>
             <p id="capacity-cap-note" class="capacity-cap-note" hidden></p>
-            <p class="scenario-caveat">Illustrative annualised scenario using 52 similar weeks and your current average service sales per delivered hour. It does not account for demand, service mix, roster constraints, cancellations or seasonality.</p>
+            <p class="scenario-caveat">*A ceiling, not a forecast: it assumes every currently unfilled hour could be sold at the same average rate. The scenario uses your operating weeks and current average sales per delivered hour. It does not account for demand, service mix, roster constraints, cancellations or seasonality.</p>
             <button id="print-scenario" class="print-button" type="button">Print or save this scenario</button>
           </div>
         </aside>
+      </section>
+
+      <section class="business-check" aria-labelledby="business-check-title">
+        <div class="business-check-heading">
+          <div><p class="eyebrow">A QUICK BUSINESS CHECK · ABOUT 2 MINUTES</p><h2 id="business-check-title">What would make work <em>easier?</em></h2></div>
+          <p>Choose the answer that feels closest. This is a private reflection, not a score. It helps you arrive at a useful first conversation without needing to know the solution.</p>
+        </div>
+        <div class="check-progress-row"><span id="check-progress-label" role="status" aria-live="polite">0 of 5 answered</span><progress id="check-progress" max="5" value="0" aria-label="Business check progress"></progress></div>
+        <div class="business-check-grid">
+          <fieldset class="check-question" data-question="gaps">
+            <legend><span>01</span>How often do you notice appointment gaps you would like to fill?</legend>
+            <label class="check-choice"><input type="radio" name="gaps" value="often"><span>Most weeks</span></label>
+            <label class="check-choice"><input type="radio" name="gaps" value="sometimes"><span>Now and then</span></label>
+            <label class="check-choice"><input type="radio" name="gaps" value="rarely"><span>Rarely</span></label>
+            <label class="check-choice"><input type="radio" name="gaps" value="unsure"><span>I’m not sure</span></label>
+          </fieldset>
+          <fieldset class="check-question" data-question="service-numbers">
+            <legend><span>02</span>Could you name the services that earn the most for the time they take?</legend>
+            <label class="check-choice"><input type="radio" name="service-numbers" value="clear"><span>Yes, I check the numbers</span></label>
+            <label class="check-choice"><input type="radio" name="service-numbers" value="hunch"><span>I have a rough idea</span></label>
+            <label class="check-choice"><input type="radio" name="service-numbers" value="unclear"><span>Not confidently</span></label>
+          </fieldset>
+          <fieldset class="check-question" data-question="time">
+            <legend><span>03</span>Which task most often interrupts the work you want to focus on?</legend>
+            <label class="check-choice"><input type="radio" name="time" value="follow-up"><span>Chasing enquiries or bookings</span></label>
+            <label class="check-choice"><input type="radio" name="time" value="double-entry"><span>Entering the same details twice</span></label>
+            <label class="check-choice"><input type="radio" name="time" value="coordination"><span>Keeping people and tasks organised</span></label>
+            <label class="check-choice"><input type="radio" name="time" value="owner"><span>Too much still depends on me</span></label>
+          </fieldset>
+          <fieldset class="check-question" data-question="systems">
+            <legend><span>04</span>How well do the tools you use share information?</legend>
+            <label class="check-choice"><input type="radio" name="systems" value="connected"><span>Most things flow between them</span></label>
+            <label class="check-choice"><input type="radio" name="systems" value="some-manual"><span>Some steps are still manual</span></label>
+            <label class="check-choice"><input type="radio" name="systems" value="disconnected"><span>I often copy information across</span></label>
+            <label class="check-choice"><input type="radio" name="systems" value="unsure"><span>I’m not sure what connects</span></label>
+          </fieldset>
+          <fieldset class="check-question check-priority" data-question="priority">
+            <legend><span>05</span>If one thing improved over the next few months, what would matter most?</legend>
+            <label class="check-choice"><input type="radio" name="priority" value="demand"><span>More of the right appointments</span></label>
+            <label class="check-choice"><input type="radio" name="priority" value="numbers"><span>Clearer prices and service costs</span></label>
+            <label class="check-choice"><input type="radio" name="priority" value="time"><span>Less time lost to admin</span></label>
+            <label class="check-choice"><input type="radio" name="priority" value="systems"><span>Tools that work together better</span></label>
+          </fieldset>
+        </div>
+        <div class="check-result" id="check-result" hidden aria-live="polite">
+          <p class="eyebrow">A GOOD PLACE TO START</p>
+          <h3 id="check-result-title">Your first conversation</h3>
+          <p id="check-result-copy"></p>
+          <p class="check-result-note">We would first understand your goals and how the work happens today, then agree on a practical scope together. You do not need to prepare a solution.</p>
+          <a class="button dark" href="/contact#discovery">Talk through your priorities</a>
+        </div>
+        <p class="check-privacy">Your selections stay on this page and are not sent or saved. Use them as prompts for your own thinking.</p>
       </section>
 
       <section class="next-steps" aria-labelledby="next-steps-title">
@@ -162,7 +222,7 @@
       </div></section>
     </main>
 
-    <footer class="site-footer"><a class="logo" href="/">Risen<span>up</span></a><p>Tailored consulting, custom AI tools and connected systems for Australian service businesses.</p><a href="/insights/index.html">Insights</a><a href="/#tools">Useful tools</a><span>Based in Australia · Engagements nationwide</span></footer>
+    <footer class="site-footer"><a class="logo" href="/">Risen<span>up</span></a><p>Tailored consulting, custom AI tools and connected systems for Australian service businesses.</p><a href="/insights/">Insights</a><a href="/#tools">Useful tools</a><span>Based in Australia · Engagements nationwide</span></footer>
   </div>
   <script src="/calculator/calculator.js" defer></script>
   <script>
