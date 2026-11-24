@@ -469,3 +469,9 @@ html{scroll-padding-top:90px}
 @media(max-width:900px){.audience-section .audience-paths>div{grid-template-columns:repeat(3,minmax(0,1fr))}.business-path summary{min-height:145px}}
 @media(max-width:620px){.audience-section .audience-paths{padding:20px 0 8px}.audience-section .audience-paths>div{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.business-path summary{min-height:144px;padding:16px 31px 14px 13px}.business-path summary strong{font-size:18px}.business-path summary span{font-size:12px}.business-path summary small{font-size:9px}.business-path-detail{padding:0 13px 14px}.business-path-detail p{font-size:12px;line-height:1.6}.business-path-detail a{min-height:44px}.business-path:last-child{grid-column:1/-1}.business-path:last-child summary{min-height:120px}}
 @media(prefers-reduced-motion:reduce){.business-path{transition:none}}
+
+@media(max-width:620px){
+  .audience-section .audience-paths>div{grid-template-columns:1fr}
+  .business-path:last-child{grid-column:auto}
+  .business-path summary{min-height:124px}
+}
