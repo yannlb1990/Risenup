@@ -64,3 +64,5 @@
 .service-page .detail-hero:has(.tracker-hero-preview){grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:5%}
 @media(max-width:850px){.service-page .detail-hero:has(.tracker-hero-preview){grid-template-columns:1fr}}
 @media(max-width:620px){.tracker-page .detail-copy h1{font-size:clamp(48px,13vw,72px)}}
+
+@media(max-width:760px){.tracker-page .site-header{display:flex;align-items:center;justify-content:space-between;flex-wrap:nowrap;gap:12px}.tracker-page .site-header>.button{display:none!important}.tracker-page .site-header .logo{flex:0 0 auto}.tracker-page .site-header .menu-toggle{margin-left:auto;flex:0 0 auto}}
