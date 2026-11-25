@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Illustrative preview of the Risenup clinic margin tracker workbook</title>
+<desc id="desc">A clean, anonymised workbook-style dashboard showing example treatment revenue and contribution metrics, weekly trend bars, product margins and stock levels. All figures are illustrative. No client data or formulas are shown.</desc>
+<defs><style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#402a1d}.muted{fill:#8a796c}.tiny{font-size:13px;letter-spacing:1.7px}.small{font-size:16px}.body{font-size:18px}.label{font-size:14px;letter-spacing:1px}.value{font-family:Georgia,serif;font-size:30px}.title{font-family:Georgia,serif;font-size:35px}.white{fill:#f3eee4}.red{fill:#873c2d}.grid{stroke:#ded3c7;stroke-width:1}.row{fill:#f8f4ed}.cell{fill:#fffdf8}
+</style></defs>
+<rect width="1600" height="1000" rx="18" fill="#e9dfd2"/><rect x="16" y="16" width="1568" height="968" rx="12" fill="#f6f2ea" stroke="#d7c8ba" stroke-width="2"/>
+<rect x="16" y="16" width="188" height="968" rx="12" fill="#402a1d"/><path d="M192 16h12v968h-12z" fill="#402a1d"/>
+<text x="48" y="72" class="white" font-family="Georgia,serif" font-size="27" letter-spacing="4">RISENUP</text><text x="48" y="129" class="white tiny">CLINIC TRACKER</text>
+<rect x="37" y="159" width="145" height="42" rx="5" fill="#754434"/><text x="54" y="186" class="white small">Overview</text>
+<text x="54" y="245" class="white small" opacity=".8">Daily sales</text><text x="54" y="294" class="white small" opacity=".8">Treatments</text><text x="54" y="343" class="white small" opacity=".8">Products &amp; stock</text><text x="54" y="392" class="white small" opacity=".8">Operating costs</text><text x="54" y="441" class="white small" opacity=".8">Marketing</text><text x="54" y="490" class="white small" opacity=".8">Monthly review</text>
+<text x="54" y="926" class="white tiny" opacity=".7">EXAMPLE LAYOUT</text>
+<text x="246" y="73" class="tiny red">WORKBOOK PREVIEW · ILLUSTRATIVE FIGURES</text><text x="246" y="125" class="title">A clearer view of the work behind each service.</text>
+<rect x="1300" y="46" width="236" height="40" rx="20" fill="#eee4d9"/><text x="1324" y="72" class="tiny red">EXAMPLE DATA ONLY</text>
+<!-- KPI cards -->
+<g><rect x="244" y="158" width="298" height="125" rx="8" class="cell" stroke="#ded3c7"/><text x="269" y="194" class="label muted">WEEKLY SERVICE SALES</text><text x="269" y="241" class="value">$4,860</text><text x="269" y="267" class="small muted">Example review period</text></g>
+<g><rect x="559" y="158" width="298" height="125" rx="8" class="cell" stroke="#ded3c7"/><text x="584" y="194" class="label muted">SERVICE CONTRIBUTION</text><text x="584" y="241" class="value">62%</text><text x="584" y="267" class="small muted">After direct inputs</text></g>
+<g><rect x="874" y="158" width="298" height="125" rx="8" class="cell" stroke="#ded3c7"/><text x="899" y="194" class="label muted">RETAIL MARGIN</text><text x="899" y="241" class="value">48%</text><text x="899" y="267" class="small muted">Example product mix</text></g>
+<g><rect x="1189" y="158" width="347" height="125" rx="8" class="cell" stroke="#ded3c7"/><text x="1214" y="194" class="label muted">WEEKLY OPERATING COSTS</text><text x="1214" y="241" class="value">$1,240</text><text x="1214" y="267" class="small muted">Illustrative total</text></g>
+<!-- chart panel -->
+<rect x="244" y="306" width="770" height="303" rx="8" class="cell" stroke="#ded3c7"/><text x="274" y="347" class="body" font-weight="700">Weekly service sales</text><text x="274" y="373" class="small muted">A simple trend view to support regular check-ins</text>
+<line x1="284" y1="551" x2="980" y2="551" class="grid"/><line x1="284" y1="500" x2="980" y2="500" class="grid"/><line x1="284" y1="449" x2="980" y2="449" class="grid"/><line x1="284" y1="398" x2="980" y2="398" class="grid"/>
+<rect x="338" y="468" width="62" height="83" rx="4" fill="#d8b1a3"/><rect x="453" y="435" width="62" height="116" rx="4" fill="#b87a69"/><rect x="568" y="450" width="62" height="101" rx="4" fill="#d8b1a3"/><rect x="683" y="410" width="62" height="141" rx="4" fill="#a8604c"/><rect x="798" y="426" width="62" height="125" rx="4" fill="#c88f7f"/><rect x="913" y="390" width="62" height="161" rx="4" fill="#873c2d"/>
+<text x="352" y="580" class="small muted">Wk 1</text><text x="467" y="580" class="small muted">Wk 2</text><text x="582" y="580" class="small muted">Wk 3</text><text x="697" y="580" class="small muted">Wk 4</text><text x="812" y="580" class="small muted">Wk 5</text><text x="927" y="580" class="small muted">Wk 6</text>
+<!-- side panels -->
+<rect x="1032" y="306" width="504" height="303" rx="8" class="cell" stroke="#ded3c7"/><text x="1062" y="347" class="body" font-weight="700">What you can review</text>
+<circle cx="1071" cy="397" r="7" fill="#873c2d"/><text x="1091" y="403" class="small">Treatment price, duration &amp; direct costs</text>
+<circle cx="1071" cy="445" r="7" fill="#873c2d"/><text x="1091" y="451" class="small">Team time and service contribution</text>
+<circle cx="1071" cy="493" r="7" fill="#873c2d"/><text x="1091" y="499" class="small">Retail product margin &amp; stock left</text>
+<circle cx="1071" cy="541" r="7" fill="#873c2d"/><text x="1091" y="547" class="small">Weekly costs and monthly summaries</text>
+<text x="1062" y="582" class="tiny muted">ENTER YOUR FIGURES IN THE WORKBOOK</text>
+<!-- bottom tables -->
+<rect x="244" y="632" width="790" height="276" rx="8" class="cell" stroke="#ded3c7"/><text x="274" y="674" class="body" font-weight="700">Treatment review</text><text x="274" y="700" class="small muted">Example columns from the service setup and sales sheets</text>
+<rect x="270" y="722" width="738" height="38" fill="#d8b1a3"/><text x="285" y="747" class="label">SERVICE</text><text x="493" y="747" class="label">PRICE</text><text x="608" y="747" class="label">TIME</text><text x="712" y="747" class="label">DIRECT COST</text><text x="865" y="747" class="label">LABOUR</text>
+<rect x="270" y="760" width="738" height="43" class="row"/><text x="285" y="788" class="small">Example facial</text><text x="493" y="788" class="small">$180</text><text x="608" y="788" class="small">45 min</text><text x="712" y="788" class="small">$18</text><text x="865" y="788" class="small">$45</text>
+<rect x="270" y="803" width="738" height="43" class="cell"/><text x="285" y="831" class="small">Example skin service</text><text x="493" y="831" class="small">$240</text><text x="608" y="831" class="small">60 min</text><text x="712" y="831" class="small">$32</text><text x="865" y="831" class="small">$60</text>
+<rect x="270" y="846" width="738" height="43" class="row"/><text x="285" y="874" class="small">Example express service</text><text x="493" y="874" class="small">$95</text><text x="608" y="874" class="small">30 min</text><text x="712" y="874" class="small">$12</text><text x="865" y="874" class="small">$30</text>
+<rect x="1052" y="632" width="484" height="276" rx="8" class="cell" stroke="#ded3c7"/><text x="1082" y="674" class="body" font-weight="700">Products &amp; stock</text><text x="1082" y="700" class="small muted">Example retail view</text>
+<rect x="1080" y="722" width="428" height="38" fill="#d8b1a3"/><text x="1095" y="747" class="label">PRODUCT</text><text x="1294" y="747" class="label">RRP</text><text x="1380" y="747" class="label">MARGIN</text><text x="1473" y="747" class="label">LEFT</text>
+<rect x="1080" y="760" width="428" height="43" class="row"/><text x="1095" y="788" class="small">Cleanser</text><text x="1294" y="788" class="small">$89</text><text x="1380" y="788" class="small">45%</text><text x="1473" y="788" class="small">6</text>
+<rect x="1080" y="803" width="428" height="43" class="cell"/><text x="1095" y="831" class="small">Serum</text><text x="1294" y="831" class="small">$120</text><text x="1380" y="831" class="small">52%</text><text x="1473" y="831" class="small">3</text>
+<rect x="1080" y="846" width="428" height="43" class="row"/><text x="1095" y="874" class="small">Moisturiser</text><text x="1294" y="874" class="small">$99</text><text x="1380" y="874" class="small">38%</text><text x="1473" y="874" class="small">8</text>
+<text x="244" y="948" class="tiny muted">ILLUSTRATIVE PREVIEW · SAMPLE FIGURES ONLY · NO CLIENT INFORMATION OR FORMULAS</text>
+</svg>
