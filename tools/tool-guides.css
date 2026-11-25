@@ -36,3 +36,10 @@
 @media(max-width:760px){.tools-site.site-shell{width:100%}.tools-site .site-header{padding:14px 22px;min-height:72px}.tools-site .site-header>.button{display:none}.tools-site .guide-main{width:calc(100% - 44px)}.tools-site .site-footer{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px 18px;padding:22px 24px}.tools-site .site-footer .logo{grid-column:1}.tools-site .site-footer>a:not(.logo){grid-column:2}.tools-site .site-footer p,.tools-site .site-footer>span{grid-column:1/-1}.tools-site .site-footer p{font-size:13px}.tools-site .site-footer>span{font-size:11px}}
 @media(max-width:540px){.tools-site .guide-main{width:calc(100% - 36px)}.tools-site .guide-hero h1{font-size:clamp(42px,11vw,58px);line-height:.98}.tools-site .guide-actions{display:grid;grid-template-columns:1fr}.tools-site .guide-button{width:100%}.tools-site .guide-grid{grid-template-columns:1fr}.guide-filters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}.guide-filters button{padding-inline:8px}.tools-site .guide-panel{overflow-wrap:anywhere}}
 @media(prefers-reduced-motion:reduce){.tools-site .guide-button,.tools-site .guide-grid a,.guide-filters button{transition:none}.tools-site .guide-button:hover,.tools-site .guide-grid a:hover{transform:none}}
+
+/* Keep the final discovery-call action directly beneath its explanation. */
+.tools-site .guide-closing{display:flex;flex-direction:column;align-items:flex-start;gap:0}
+.tools-site .guide-closing>div{width:min(100%,68ch)}
+.tools-site .guide-closing h2{margin:20px 0 10px}
+.tools-site .guide-closing p:last-child{max-width:68ch;margin:0}
+.tools-site .guide-closing .guide-button{align-self:flex-start;margin-top:16px}
