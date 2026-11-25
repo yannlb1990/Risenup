@@ -59,3 +59,8 @@
 .service-page .detail-hero:has(.tracker-hero-preview){grid-template-columns:.82fr 1.18fr;gap:4%;min-height:690px}
 @media(max-width:850px){.service-page .detail-hero:has(.tracker-hero-preview){grid-template-columns:1fr;gap:26px}.tracker-hero-preview{max-width:760px}}
 @media(max-width:620px){.tracker-hero-preview{width:100%}.tracker-hero-preview figcaption{font-size:11px}.service-page .detail-hero:has(.tracker-hero-preview){padding-top:122px}}
+
+.tracker-page .detail-copy h1{font-size:clamp(56px,4.6vw,80px);line-height:.98;letter-spacing:-.065em}
+.service-page .detail-hero:has(.tracker-hero-preview){grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:5%}
+@media(max-width:850px){.service-page .detail-hero:has(.tracker-hero-preview){grid-template-columns:1fr}}
+@media(max-width:620px){.tracker-page .detail-copy h1{font-size:clamp(48px,13vw,72px)}}
