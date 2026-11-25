@@ -29,3 +29,26 @@
 .contact-request .form-delivery-note,.contact-request #discovery-status{max-width:650px;margin:13px 0 0;font-size:12px;line-height:1.6;color:var(--editorial-muted)}
 .contact-request #discovery-status:empty{display:none}
 @media(max-width:620px){.contact-request{margin:22px -24px 24px;padding:25px 20px}.contact-request-grid{grid-template-columns:1fr;gap:13px}.contact-request .form-field.full{grid-column:auto}.contact-request .form-actions{align-items:stretch}.contact-request .form-actions .button{width:100%}}
+
+/* Clinic Margin Tracker product preview and offer comparison. */
+.tracker-inside .detail-intro{margin-bottom:30px}
+.tracker-inside .detail-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.tracker-inside .detail-grid article{min-height:190px}
+.tracker-product-preview{margin:34px 0 0;padding:clamp(12px,2.2vw,24px);background:#e9dfd2;border:1px solid var(--editorial-line)}
+.tracker-product-preview img{display:block;width:100%;height:auto;border:1px solid #d7c8ba;background:#f6f2ea;box-shadow:0 18px 48px #402a1d1c}
+.tracker-product-preview figcaption{margin:12px 2px 0;color:var(--editorial-muted);font-size:13px;line-height:1.6}
+.tracker-comparison{padding:clamp(48px,7vw,94px) clamp(26px,8vw,128px);background:var(--editorial-paper)}
+.tracker-comparison .detail-intro{margin-bottom:32px}
+.tracker-choice-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.tracker-choice-grid article{padding:clamp(22px,3.5vw,38px);background:#f6f2ea;border:1px solid var(--editorial-line)}
+.tracker-choice-grid article:last-child{background:#402a1d;color:#f3eee4;border-color:#402a1d}
+.tracker-choice-grid article:last-child p{color:#f3eee4d9}
+.tracker-choice-grid .eyebrow{margin:0 0 13px;color:var(--editorial-red)}
+.tracker-choice-grid article:last-child .eyebrow{color:#e7b4a4}
+.tracker-choice-grid h3{font:normal clamp(29px,3.3vw,42px)/1.07 Georgia,'Times New Roman',serif;margin:0 0 14px}
+.tracker-choice-grid p{max-width:58ch;font-size:15px;line-height:1.7}
+.tracker-choice-grid ul{padding-left:20px;margin:19px 0 24px;font-size:14px;line-height:1.8}
+.tracker-choice-grid .button{margin-top:3px}
+.tracker-choice-grid article:last-child .button{border-color:#f3eee4a6;color:#f3eee4;background:transparent}
+@media(max-width:850px){.tracker-inside .detail-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.tracker-choice-grid{grid-template-columns:1fr}}
+@media(max-width:620px){.tracker-inside .detail-grid{grid-template-columns:1fr}.tracker-inside .detail-grid article{min-height:0}.tracker-product-preview{margin-left:-10px;margin-right:-10px;padding:9px}.tracker-product-preview figcaption{font-size:12px}.tracker-comparison{padding:46px 24px}.tracker-choice-grid article{padding:23px 20px}}
