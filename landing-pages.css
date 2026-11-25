@@ -52,3 +52,10 @@
 .tracker-choice-grid article:last-child .button{border-color:#f3eee4a6;color:#f3eee4;background:transparent}
 @media(max-width:850px){.tracker-inside .detail-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.tracker-choice-grid{grid-template-columns:1fr}}
 @media(max-width:620px){.tracker-inside .detail-grid{grid-template-columns:1fr}.tracker-inside .detail-grid article{min-height:0}.tracker-product-preview{margin-left:-10px;margin-right:-10px;padding:9px}.tracker-product-preview figcaption{font-size:12px}.tracker-comparison{padding:46px 24px}.tracker-choice-grid article{padding:23px 20px}}
+
+.tracker-hero-preview{width:min(100%,700px);margin:0 auto}
+.tracker-hero-preview img{display:block;width:100%;height:auto;border:1px solid #d7c8ba;background:#f6f2ea;box-shadow:0 24px 70px #1d120b40}
+.tracker-hero-preview figcaption{margin:10px 2px 0;color:#f3eee4b8;font-size:12px;line-height:1.55}
+.service-page .detail-hero:has(.tracker-hero-preview){grid-template-columns:.82fr 1.18fr;gap:4%;min-height:690px}
+@media(max-width:850px){.service-page .detail-hero:has(.tracker-hero-preview){grid-template-columns:1fr;gap:26px}.tracker-hero-preview{max-width:760px}}
+@media(max-width:620px){.tracker-hero-preview{width:100%}.tracker-hero-preview figcaption{font-size:11px}.service-page .detail-hero:has(.tracker-hero-preview){padding-top:122px}}
