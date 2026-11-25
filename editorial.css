@@ -475,3 +475,8 @@ html{scroll-padding-top:90px}
   .business-path:last-child{grid-column:auto}
   .business-path summary{min-height:124px}
 }
+
+@media(max-width:760px){
+  .site-shell .site-header>.button{display:none}
+  .site-header.menu-open nav{background:var(--editorial-ink)}
+}
